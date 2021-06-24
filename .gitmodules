@@ -3,10 +3,10 @@
 	url = https://github.com/cxxszz/arboricity.git
 [submodule "external/opengm"]
 	path = external/opengm
-	url = https://github.com/opengm/opengm.git
+	url = https://github.com/cxxszz/opengm.git
 [submodule "external/PEGTL"]
 	path = external/PEGTL
-	url = https://github.com/taocpp/PEGTL.git
+	url = https://github.com/cxxszz/PEGTL.git
 	branch = 1.3.x
 [submodule "external/LP_MP"]
 	path = external/LP_MP
